@@ -1,4 +1,4 @@
-DISCLAIMERS: This virus is for educational purpose only. DO NOT RUN IT UNLESS YOU WANNA HARD RESET YOUR DEVICE
+DISCLAIMERS: This virus is for educational purpose only. DO NOT RUN IT UNLESS YOU WANNA HARD RESET YOUR DEVICE. PLS DON'T RUN IT DUE TO INSTRUSIVE THOUGHTS
 
 NOTES: You can probably delete all the .json and .dll files its not really needed, just send the .exe to your target.
 
