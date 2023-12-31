@@ -4,4 +4,4 @@ NOTES: You can probably delete all the .json and .dll files its not really neede
 
 FUNCTIONS: This virus does not grab data whatsoever. It displays "Merry Christmas", but the virus seems really jolly and dosent want to leave your screen!!! It will only retreat if you do a hard reset or smt. Nothing can close it, not even ctrl+alt+delete. It attatches to startup apps
 
-Has not been FULLY tested, but 99% works. Cant test it on main device cuz i dont want to hard reset
+
